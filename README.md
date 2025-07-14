@@ -59,7 +59,8 @@ Select Add
 
 Select Save to return to the incident record. Confirm the sFone choice appears last on 
 the list for the Category field.
-<img width="624" height="595" alt="image" src="https://github.com/user-attachments/assets/34d6e5fc-5950-4ead-bdaf-2f137ecb2ca0" />
+<img width="398" height="312" alt="Screenshot 2025-07-13 182953" src="https://github.com/user-attachments/assets/0c76424d-150c-46ff-9651-964a94de1dfc" />
+
 
 
 Create a Non-P1 sFone Incident to put your form changes into action. 
